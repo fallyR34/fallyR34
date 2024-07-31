@@ -1,2 +1,2 @@
-pip install -r requirements.txt
- ./main.py
+colorama==0.4.4
+requests==2.24.0
